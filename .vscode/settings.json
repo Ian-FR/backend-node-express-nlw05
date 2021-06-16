@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:backend-node-express}/src/database/database.sqlite",
+      "name": "node-backend"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
